@@ -1,0 +1,32 @@
+[
+    {    
+        "id": "1",
+        "nome": "Estrogonofe de Frango",
+        "imagem": "https://br.web.img2.acsta.net/pictures/15/07/29/14/06/297599.jpg",
+        "calorias": "100g",
+        "carboidratos": "3,8g",
+        "fibras": "0g",
+        "proteinas": "17g",
+        "indiceGlicemico": "?"
+    },
+    {    
+        "id": "2",
+        "nome": "Feijoada",
+        "imagem": "https://br.web.img2.acsta.net/pictures/15/07/29/14/06/297599.jpg",
+        "calorias": "seila",
+        "carboidratos": "seila",
+        "fibras": "seila",
+        "proteinas": "seila",
+        "indiceGlicemico": "seila"
+    },
+    {     
+        "id": "3",
+        "nome": "Macarrão ao molho vermelho",
+        "imagem": "https://br.web.img2.acsta.net/pictures/15/07/29/14/06/297599.jpg",
+        "calorias": "seila",
+        "carboidratos": "seila",
+        "fibras": "seila",
+        "proteinas": "seila",
+        "indiceGlicemico": "seila"
+    }
+]
