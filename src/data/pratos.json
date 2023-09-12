@@ -1,32 +1,82 @@
 [
     {    
-        "id": "1",
+        "id": 1,
         "nome": "Estrogonofe de Frango",
         "imagem": "https://br.web.img2.acsta.net/pictures/15/07/29/14/06/297599.jpg",
         "calorias": "100g",
         "carboidratos": "3,8g",
         "fibras": "0g",
         "proteinas": "17g",
-        "indiceGlicemico": "?"
+        "indiceGlicemico": "X"
     },
     {    
-        "id": "2",
+        "id": 2,
         "nome": "Feijoada",
         "imagem": "https://br.web.img2.acsta.net/pictures/15/07/29/14/06/297599.jpg",
-        "calorias": "seila",
-        "carboidratos": "seila",
-        "fibras": "seila",
-        "proteinas": "seila",
-        "indiceGlicemico": "seila"
+        "calorias": "Xg",
+        "carboidratos": "Xg",
+        "fibras": "Xg",
+        "proteinas": "Xg",
+        "indiceGlicemico": "X"
     },
     {     
-        "id": "3",
+        "id": 3,
         "nome": "Macarrão ao molho vermelho",
         "imagem": "https://br.web.img2.acsta.net/pictures/15/07/29/14/06/297599.jpg",
-        "calorias": "seila",
-        "carboidratos": "seila",
-        "fibras": "seila",
-        "proteinas": "seila",
-        "indiceGlicemico": "seila"
+        "calorias": "Xg",
+        "carboidratos": "Xg",
+        "fibras": "Xg",
+        "proteinas": "Xg",
+        "indiceGlicemico": "X"
+    },
+    {     
+        "id": 4,
+        "nome": "Estrogonofe de Carne",
+        "imagem": "https://br.web.img2.acsta.net/pictures/15/07/29/14/06/297599.jpg",
+        "calorias": "Xg",
+        "carboidratos": "Xg",
+        "fibras": "Xg",
+        "proteinas": "Xg",
+        "indiceGlicemico": "X"
+    },
+    {     
+        "id": 5,
+        "nome": "Macarrão ao Molho Branco",
+        "imagem": "https://br.web.img2.acsta.net/pictures/15/07/29/14/06/297599.jpg",
+        "calorias": "Xg",
+        "carboidratos": "Xg",
+        "fibras": "Xg",
+        "proteinas": "Xg",
+        "indiceGlicemico": "X"
+    },
+    {     
+        "id": 6,
+        "nome": "Arroz Branco",
+        "imagem": "https://br.web.img2.acsta.net/pictures/15/07/29/14/06/297599.jpg",
+        "calorias": "Xg",
+        "carboidratos": "Xg",
+        "fibras": "Xg",
+        "proteinas": "Xg",
+        "indiceGlicemico": "X"
+    },
+    {     
+        "id": 7,
+        "nome": "Feijão Preto",
+        "imagem": "https://br.web.img2.acsta.net/pictures/15/07/29/14/06/297599.jpg",
+        "calorias": "Xg",
+        "carboidratos": "Xg",
+        "fibras": "Xg",
+        "proteinas": "Xg",
+        "indiceGlicemico": "X"
+    },
+    {     
+        "id": 8,
+        "nome": "Batata Palha",
+        "imagem": "https://br.web.img2.acsta.net/pictures/15/07/29/14/06/297599.jpg",
+        "calorias": "Xg",
+        "carboidratos": "Xg",
+        "fibras": "Xg",
+        "proteinas": "Xg",
+        "indiceGlicemico": "X"
     }
 ]
