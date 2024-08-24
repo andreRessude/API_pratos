@@ -1,82 +1,29 @@
 [
-    {    
+    {
         "id": 1,
         "nome": "Estrogonofe de Frango",
-        "imagem": "https://br.web.img2.acsta.net/pictures/15/07/29/14/06/297599.jpg",
-        "calorias": "100g",
-        "carboidratos": "3,8g",
-        "fibras": "0g",
-        "proteinas": "17g",
-        "indiceGlicemico": "X"
+        "imagem":"https://img.freepik.com/fotos-gratis/frango-de-manteiga-indiana-em-tigela-preta-na-mesa-de-madeira_123827-20544.jpg?w=740&t=st=1694626523~exp=1694627123~hmac=35a421b7bb709dfeb5931db1f0a4c0dd3d9c8b0534fc820be72729fd83334863",
+        "calorias": 471,
+        "lipidios": 24,
+        "fibras": 1.83,
+        "indiceGlicemico": 4.5
     },
-    {    
+    {   
         "id": 2,
         "nome": "Feijoada",
-        "imagem": "https://br.web.img2.acsta.net/pictures/15/07/29/14/06/297599.jpg",
-        "calorias": "Xg",
-        "carboidratos": "Xg",
-        "fibras": "Xg",
-        "proteinas": "Xg",
-        "indiceGlicemico": "X"
+        "imagem": "https://t4.ftcdn.net/jpg/01/07/71/09/240_F_107710915_cFtzNMdOaZHIDY2G8BeXHMvfJ43efIF8.jpg",
+        "calorias": 351,
+        "lipidios": 19.5,
+        "fibras": 15.3,
+        "indiceGlicemico": 5.2
     },
     {     
         "id": 3,
-        "nome": "Macarrão ao molho vermelho",
-        "imagem": "https://br.web.img2.acsta.net/pictures/15/07/29/14/06/297599.jpg",
-        "calorias": "Xg",
-        "carboidratos": "Xg",
-        "fibras": "Xg",
-        "proteinas": "Xg",
-        "indiceGlicemico": "X"
-    },
-    {     
-        "id": 4,
-        "nome": "Estrogonofe de Carne",
-        "imagem": "https://br.web.img2.acsta.net/pictures/15/07/29/14/06/297599.jpg",
-        "calorias": "Xg",
-        "carboidratos": "Xg",
-        "fibras": "Xg",
-        "proteinas": "Xg",
-        "indiceGlicemico": "X"
-    },
-    {     
-        "id": 5,
-        "nome": "Macarrão ao Molho Branco",
-        "imagem": "https://br.web.img2.acsta.net/pictures/15/07/29/14/06/297599.jpg",
-        "calorias": "Xg",
-        "carboidratos": "Xg",
-        "fibras": "Xg",
-        "proteinas": "Xg",
-        "indiceGlicemico": "X"
-    },
-    {     
-        "id": 6,
-        "nome": "Arroz Branco",
-        "imagem": "https://br.web.img2.acsta.net/pictures/15/07/29/14/06/297599.jpg",
-        "calorias": "Xg",
-        "carboidratos": "Xg",
-        "fibras": "Xg",
-        "proteinas": "Xg",
-        "indiceGlicemico": "X"
-    },
-    {     
-        "id": 7,
-        "nome": "Feijão Preto",
-        "imagem": "https://br.web.img2.acsta.net/pictures/15/07/29/14/06/297599.jpg",
-        "calorias": "Xg",
-        "carboidratos": "Xg",
-        "fibras": "Xg",
-        "proteinas": "Xg",
-        "indiceGlicemico": "X"
-    },
-    {     
-        "id": 8,
-        "nome": "Batata Palha",
-        "imagem": "https://br.web.img2.acsta.net/pictures/15/07/29/14/06/297599.jpg",
-        "calorias": "Xg",
-        "carboidratos": "Xg",
-        "fibras": "Xg",
-        "proteinas": "Xg",
-        "indiceGlicemico": "X"
+        "nome": "Macarrão com Molho de Tomate",
+        "imagem": "https://cdn.pixabay.com/photo/2017/10/06/17/43/noodles-2823942_1280.jpg",
+        "calorias": 416.53,
+        "lipidios": 3.35,
+        "fibras": 5.1,
+        "indiceGlicemico": 26.61
     }
 ]
