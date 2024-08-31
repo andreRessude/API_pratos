@@ -1,5 +1,6 @@
 const express = require('express');
 const server = express();
+const cors = require('cors'); // Importando o módulo cors
 const pratos = require('./src/data/pratos.json');
 
 server.use(cors());
