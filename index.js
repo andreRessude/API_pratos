@@ -16,3 +16,5 @@ server.get('/pratos', (req,res) => {
 server.listen(3000, () =>{
     console.log('Servidor em funcionamento...');
 });
+
+//TESTE 08/10
